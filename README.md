@@ -1,14 +1,14 @@
 # AgNPs
 Optimización de nanopartículas de Plata
-$
+
 Profesor: Carlos Arellano Muro
-$
+
 Equipo: 
-$
+
 Diamante del Cielo Gutiérrez Nandayapa nt709910
-$
+
 Isaura Rodríguez Navarro nt713994
-$
+
 ##### Se busca generar nanopartículas de Plata con forma de esferas.
 
 Para llevarse a cabo la reacción, se necesitan 4 reactivos:
